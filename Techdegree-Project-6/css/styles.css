@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+p {
+  margin: 20px;
+}
+
+.wrapper__video {
+  margin: 0 auto;
+  display: block;
+}
+
+@media (min-width: 768px) {
+  body {
+    margin: 20px 10%;
+  }
+
+  p {
+    margin: 20px 0;
+  }
+}
