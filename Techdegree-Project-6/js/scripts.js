@@ -3,6 +3,7 @@ $('video').mediaelementplayer({
       'playpause',
       'duration',
       'progress',
+      'volume',
       'fullscreen',
     ],
     stretching: 'responsive',
